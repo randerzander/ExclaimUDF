@@ -1,10 +1,11 @@
 An example Hive UDF project.
 
-Building the UDF with Apache Maven.
+Building the UDF with Apache Maven:
 ```
 mvn clean package
 ```
 
+Using the UDF with Apache Hive:
 ```
 [randy@dev-edge ExclaimUDF]$ hive
 15/06/22 15:05:25 WARN conf.HiveConf: HiveConf of name hive.server2.enable.impersonation does not exist
