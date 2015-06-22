@@ -1,4 +1,4 @@
-package com.github.randerzander.CurveUDFs;
+package com.github.randerzander.ExclaimUDF;
  
 import org.apache.hadoop.hive.ql.exec.UDF;
 
